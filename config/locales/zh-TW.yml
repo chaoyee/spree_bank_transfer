@@ -1,0 +1,8 @@
+zh-TW:
+  spree:
+    payment_not_found: "無此筆付款"
+    payment_successfully_updated: "已成功更新此筆付款"
+    payment_reference_details: "付款相關明細"
+    bank_name: "銀行名稱"
+    account_no: '帳號'
+    transaction_reference_no: '交易代號'
